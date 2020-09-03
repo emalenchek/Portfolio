@@ -48,8 +48,8 @@ class AboutMe extends Component {
                             <div>
                                 <Card className="mb-5">
                                     <div>                                       
-                                        <img src={grocery} alt="Grocery Project" className="img-fluid" />
-                                        <h3 className="text-center"><a href="https://salty-tor-54455.herokuapp.com/">Grocery List Application</a></h3>
+                                        <img src={covid} alt="Covid Stats Tracker" className="img-fluid" />
+                                        <h3 className="mt-5 text-center"><a href="https://covid-stats-tracker.herokuapp.com/">COVID Stat Tracker</a></h3>
                                         <p className="text-center"></p>
                                     </div>
                                 </Card>
@@ -57,8 +57,8 @@ class AboutMe extends Component {
                             <div>
                                 <Card className="mb-5">
                                     <div>                                       
-                                        <img src={covid} alt="Covid Stats Tracker" className="img-fluid" />
-                                        <h3 className="mt-5 text-center"><a href="https://covid-stats-tracker.herokuapp.com/">COVID Stats Tracker</a></h3>
+                                        <img src={grocery} alt="Grocery Project" className="img-fluid" />
+                                        <h3 className="text-center"><a href="https://salty-tor-54455.herokuapp.com/">Grocery List Application</a></h3>
                                         <p className="text-center"></p>
                                     </div>
                                 </Card>
